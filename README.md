@@ -27,8 +27,6 @@ Run Python code to load data into SQL database
 
 Open customer_behavior_sql_queries.sql
 
-Answer Business Questions using SQL Queries
-
 **4. Connect the SQL Database to Power BI**
 
 Open customer_behavior_dashboard.pbix
