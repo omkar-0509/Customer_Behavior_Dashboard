@@ -12,7 +12,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 This file contains:
 
 Data Import
-
+ 
 Data exploration
 
 Data cleaning
