@@ -7,7 +7,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
-**2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+**2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook** 
 
 This file contains:
 
