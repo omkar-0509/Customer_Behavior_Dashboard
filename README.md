@@ -15,7 +15,7 @@ Data Import
  
 Data exploration
 
-Data cleaning
+Data cleaning 
 
 Connection to SQL Database
 
