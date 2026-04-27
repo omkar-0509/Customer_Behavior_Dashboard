@@ -9,7 +9,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 **2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook** 
 
-This file contains :
+This file contains:
 
 Data Import
  
